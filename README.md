@@ -1,8 +1,9 @@
 ## 넷플릭스 클론 코딩 반응형 웹페이지
 
 ### 🖥환경
-- HTML
-- CSS
+- HTML5
+- CSS3
+- jQuery
 - BootStrap
 
 ### 🖼썸네일
