@@ -10,4 +10,4 @@
 ![01-full](https://user-images.githubusercontent.com/83056872/128038998-8f86b2d1-5b61-40e0-a355-d788431229b8.jpg)
 
 ### 🏷URL
-http://leap22.dothome.co.kr//netflix/
+http://leap22.dothome.co.kr/netflix/
